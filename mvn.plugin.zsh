@@ -20,6 +20,8 @@ export BACKGROUND_CYAN=`tput setab 6`
 export BACKGROUND_WHITE=`tput setab 7`
 export RESET_FORMATTING=`tput sgr0`
 export ZZZZZZZZ=`tput sgr0`
+export AAAAAAAA=`tput sgr0`
+
  
 # Wrapper function for Maven's mvn command.
 mvn-color()
